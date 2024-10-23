@@ -39,6 +39,12 @@ Before you begin, make sure you have met the following requirements:
         |-- male0300.png
 |-- README.md
 
+## Screenshot :
+1. ![image](https://github.com/user-attachments/assets/4a7a70fa-1d81-4649-bb75-bedf80802fa9)
+2.![Screenshot (189)](https://github.com/user-attachments/assets/0dfb8ecd-8dfc-4817-a5f5-6b071d431ce5)
+3. ![image](https://github.com/user-attachments/assets/4578b84a-17b2-4976-bb39-95ea124fb076)
+
+
 🛠 Setup & Installation
 
 1. Clone the repository:
