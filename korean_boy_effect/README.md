@@ -25,9 +25,7 @@ Before you begin, make sure you have met the following requirements:
 - **GSAP**: Powerful JavaScript library for animations.
 - **Locomotive Scroll**: For smooth scrolling and scroll-based effects.
 
-## 📂 Project Structure
-
-```plaintext
+## 📂 Project Structure :
 |-- index.html
 |-- style.css
 |-- script.js
@@ -81,4 +79,8 @@ Anshul Kotwal
 
 
 Feel free to customize the project name, repository link, and contact details.
+
+
+
+
 
